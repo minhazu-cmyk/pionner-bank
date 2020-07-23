@@ -1,0 +1,27 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 40px;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px gray ;
+}
+#transformer{
+    display: none;
+}
+.deposite{
+    background-color: gray;
+
+}
+.withdrow{
+    background-color: lightsalmon;
+}
+.balance{background-color: orange;
+}
+.status{
+    margin: 0px 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
